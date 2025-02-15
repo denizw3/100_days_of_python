@@ -1,5 +1,6 @@
-Day 2 Project: Tip Calculator
-#Restoranda kalabalık arkadaş grupları için bahşiş hesaplamaya yarayan bir proje yazdım:
+Day 2 Project: Tip Calculator (Bahşiş Hesaplama)
+
+Restoranda kalabalık arkadaş grupları için bahşiş hesaplamaya yarayan bir proje yazdım:
 
 ```python
 print("Welcome to the tip calculator!")

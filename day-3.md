@@ -1,5 +1,7 @@
 Üçüncü Gün: Rollercoaster Ücreti Hesaplama
-Bir lunaparka gelen kişiler arasından yaşa ve boya bakılarak farklı ödemelerin hesaplanmasını sağlayan bir proje oluşturdum. Bu proje sayesinde If else elif döngülerinin mantığını kavradım.
+
+Bir lunaparka gelen kişiler arasından yaşa ve boya bakılarak farklı ödemelerin hesaplanmasını sağlayan bir proje oluşturdum. 
+Bu proje sayesinde If else elif döngülerinin mantığını kavradım.
 
 ```python
 print("Welcome to the rollercoaster!")

@@ -1,10 +1,9 @@
 Day 5 project: Password Generator
 
 # this project allows you to generate random passwords with using python's random library. i had difficulty while coding this project but somehow i managed to it after taking some time.
-# Easy Level
-# In the easy version, the letters, symbols and numbers are given in a sequence.
-# first letters then symbols and then numbers are given. 
+# In the easy version, the letters, symbols and numbers are given in a sequence. first letters then symbols and then numbers are given. 
 # whereas in the hard level; i've made list and in the final step, they are shuffled one more time so they are totally randomly chosen in the hard level.
+# Easy Level
 ```python
 import random
 from random import shuffle
